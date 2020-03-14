@@ -1,0 +1,24 @@
+.maincontainer{
+  h1{
+    text-align: center;
+  }
+  .imagecontainer{
+    height: 60%;
+    width: 90%;
+    margin: auto;
+    img{
+      width: 90%;
+      height: 20%;
+    }
+  }
+  .lefticon{
+    position: absolute;
+    top: 50%;
+  }
+  .righticon{
+    position: absolute;
+    right: 10%;
+    top: 50%;
+}
+  }
+
